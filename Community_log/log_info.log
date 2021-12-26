@@ -1,0 +1,5 @@
+2021-12-26 21:16:32,166 INFO [main] l.C.LogTest [StartupInfoLogger.java:55] Starting LogTest using Java 1.8.0_212 on delladeMacBook-Pro-2.local with PID 53958 (started by dellalee in /Users/dellalee/Desktop/90WW/Community_demo)
+2021-12-26 21:16:32,172 INFO [main] l.C.LogTest [SpringApplication.java:635] No active profile set, falling back to default profiles: default
+2021-12-26 21:16:37,352 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2021-12-26 21:16:38,137 INFO [main] l.C.LogTest [StartupInfoLogger.java:61] Started LogTest in 6.77 seconds (JVM running for 8.725)
+2021-12-26 21:16:38,445 INFO [main] l.C.LogTest [LogTest.java:22] info log

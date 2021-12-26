@@ -1,0 +1,2 @@
+2021-12-26 21:16:37,696 WARN [main] o.t.t.TemplateMode [TemplateMode.java:150] [THYMELEAF][main] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2021-12-26 21:16:38,445 WARN [main] l.C.LogTest [LogTest.java:23] warn log
