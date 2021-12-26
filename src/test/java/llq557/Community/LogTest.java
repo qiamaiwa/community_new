@@ -17,6 +17,8 @@ public class LogTest {
 
     @Test
     public  void  LoggerTest(){
+
+        //1
         System.out.println(logger.getName());
         logger.debug("debug log");
         logger.info("info log");
